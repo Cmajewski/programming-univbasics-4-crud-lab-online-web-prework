@@ -32,7 +32,7 @@ array.shift(element)
 end
 
 def retrieve_element_from_index(array, index_number)
-array 
+array
 array.index(index_number)
 end
 
