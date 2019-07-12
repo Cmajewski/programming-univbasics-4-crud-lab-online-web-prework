@@ -9,9 +9,9 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-["golden","poodle"]
-
-add_element_to_end_of_array<< "dalmation"
+array=["golden","poodle"]
+element=dalmation
+array<< "dalmation"
 
 end
 
