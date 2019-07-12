@@ -9,9 +9,9 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-array= ["golden","poodle","beagle","bichon"]
-element= "dalmation"
-array.push("dalmation")
+puppy_type = ["golden","poodle","beagle"]
+puppy_type << "dalmation"
+p add_element_to_end_of_array
 end
 
 
