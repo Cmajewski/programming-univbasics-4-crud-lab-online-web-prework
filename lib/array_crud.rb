@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
 
 puppy_type = ["golden","poodle"]
 
-p puppy_type << "dalmation"
+puppy_type << "dalmation"
 
 end
 
