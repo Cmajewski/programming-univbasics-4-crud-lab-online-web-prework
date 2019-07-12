@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["pink","purple","blue","green"]
+  color= ["pink","purple","blue","green"]
 
 end
 
