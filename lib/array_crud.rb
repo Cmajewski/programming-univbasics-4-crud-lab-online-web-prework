@@ -9,8 +9,8 @@ end
 
 def add_element_to_end_of_array(array, element)
 
-puppy= ["golden","poodle","beagle","bichon"]
-puppy << "dalmation"
+["golden","poodle","beagle","bichon"]
+<< "dalmation"
 
 end
 
