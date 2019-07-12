@@ -10,8 +10,9 @@ end
 def add_element_to_end_of_array(array, element)
 
 puppy_type = ["golden","poodle","beagle"]
+element="dalmation"
 puppy_type << "dalmation"
-p add_element_to_end_of_array
+add_element_to_end_of_array(puppy_type,element)
 end
 
 
